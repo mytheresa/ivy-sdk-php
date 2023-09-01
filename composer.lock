@@ -70,7 +70,7 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.5.0",
+            "version": "7.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
@@ -3810,7 +3810,6 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "ext-decimal": "*"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"

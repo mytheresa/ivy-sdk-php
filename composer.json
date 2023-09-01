@@ -1,6 +1,7 @@
 {
   "name": "vadim-nilov/ivy-sdk-php",
   "description": "IVY payment provider PHP Library",
+  "version": "1.0.0",
   "keywords": [
     "ivy",
     "payment processing",
